@@ -1,0 +1,7 @@
+{
+  "managers": ["bower", "npm"],
+  "push_code": true,
+  "publish": true,
+  "build_command": null,
+  "git_tags": true
+}
